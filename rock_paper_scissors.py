@@ -32,16 +32,13 @@ while True:
     if (player_move == rock and computer_move == scissors) or (player_move == scissors and computer_move == paper) or \
             (player_move == paper and computer_move == rock):
         your_won_games += 1
-        print("You win this hand!")
-        print(f"Your points: {your_won_games}")
-        print(f"Computer points: {your_won_games}")
+        print(f"You win this hand! You: {your_won_games} / Comp: {computer_won_games}")
+
     elif player_move == computer_move:
         print("Draw!")
     else:
         computer_won_games += 1
-        print("The computer wins this hand!")
-        print(f"Your points: {your_won_games}")
-        print(f"Computer points: {your_won_games}")
+        print(f"The computer wins this hand! You: {your_won_games} / Comp: {computer_won_games}")
 
     if your_won_games == 5:
         print("You win this game!")
