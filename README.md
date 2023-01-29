@@ -1,2 +1,2 @@
-# RockPaperScissorsPolishko
-My first console game
+# Rock Paper Scissors console game
+My first simple console game
