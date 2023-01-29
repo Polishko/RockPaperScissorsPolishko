@@ -25,7 +25,7 @@ Game rules:
   
  Link to play the game on your Browser :)
  
-[<image src="https://user-images.githubusercontent.com/119063181/215343359-ac6e0d7e-c5be-427d-bc56-66b48677a71b.png" alt="Run Button" target="_blank" />](https://replit.com/@polishko/Rock-Paper-Scissors#main.py)
+[<image src="https://user-images.githubusercontent.com/119063181/215343359-ac6e0d7e-c5be-427d-bc56-66b48677a71b.png" alt="Run Button"/>](https://replit.com/@polishko/Rock-Paper-Scissors#main.py)
 
  
  
